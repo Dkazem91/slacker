@@ -25,7 +25,7 @@
 ## File Structure
 
 * [README](README.md) - this README file
-* [slacker](slacker.py) - the python file containing the Slacker program
+* [pyslack](pyslack.py) - the python file containing the Slacker program
 
 ## Requirements
 
@@ -44,8 +44,8 @@ At this time, there are no known bugs.
 
 ## Authors
 
-Greg Dame | [GitHub](https://github.com/gjdame) | [Twitter](https://twitter.com/gjdame)
-Dan Kazemian | [GitHub](https://github.com/dkazem91) |[Twitter](https://twitter.com/Dan_Kazam)
+Greg Dame | [GitHub](https://github.com/gjdame) | [Twitter](https://twitter.com/gjdame)   
+Dan Kazemian | [GitHub](https://github.com/dkazem91) |[Twitter](https://twitter.com/Dan_Kazam)   
 Lizzie Turner | [GitHub](https://github.com/lizzieturner) | [Twitter](https://twitter.com/_lizzieturner_)
 
 
